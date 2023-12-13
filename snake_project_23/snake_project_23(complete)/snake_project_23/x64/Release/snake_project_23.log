@@ -1,0 +1,5 @@
+﻿  Generating code
+  Compiler switch has changed, fall back to full compilation.
+  All 167 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  snake_project_23.vcxproj -> D:\c++ coding\snake_project_23(complete)\x64\Release\snake_project_23.exe
