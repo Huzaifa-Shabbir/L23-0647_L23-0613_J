@@ -13,3 +13,7 @@ Branch Complete_Project contains:
 1. An executive application
 2. Readme.md to help setup
 3. A pdf guide.
+
+
+LIBRARIES USED: SFML(simple and fast multimedia library)
+                V2.6.1
